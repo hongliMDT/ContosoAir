@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/mnllit-Sandbox0/TailspinJD-1/_apis/build/status/hongliMDT.ContosoAir?branchName=master)](https://dev.azure.com/mnllit-Sandbox0/TailspinJD-1/_build/latest?definitionId=6&branchName=master)
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
